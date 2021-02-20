@@ -1,0 +1,38 @@
+# IDEs and editors
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# VE
+venv/
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Python 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyBuilder
+.pybuilder/
+
+# latex
+*.aux
+*.log
+*.out
+*.gz
