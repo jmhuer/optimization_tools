@@ -1,1 +1,1 @@
-from . import gdrive_download
+from .gdrive_download import download_gdrive
